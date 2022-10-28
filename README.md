@@ -1,8 +1,33 @@
 # DTS REA4 Final Project
+1. Register
+2. Login firebase with username and password
+3. Login firebase with google account
+4. Forgot Password
+5. Home movie
+6. find movie by category
+7. play trailer movie (dev)
+8. list favorite movie (dev)
+9. subscription movie (dev)
+
+yang  di install
+1. npm install
+2. npm i  -g firebase-tools
+3. npm install -D tailwindcss postcss
+4. npx tailwindcss init -p
+5.  npm add react-icons tailwind-scrollbar-hide
+6. npm add axios react-router-dom firebase
+7. npm install --save-dev webpack
+
+
+
+link : https://dts4c-23-final.web.app/
+
+DTS4C-23-Final
 
 Ketentuan lengkap bisa dilihat di [Final Project Guidelines](https://docs.google.com/document/d/122KyWNQ4xxU4aFwWbM4vIfH7LM4AH2CZEZa3YsEHjCk). 
 
 ## Daftar pair
+![dts4c-23-final](https://user-images.githubusercontent.com/113403867/198748733-172e685a-2e48-42d5-bdbc-3531a7c2181e.gif)
 
 Tugas dikerjakan secara berpasangan, untuk daftar kelompok bisa dilihat pada masing-masing Classroom atau Discord Class.
 
